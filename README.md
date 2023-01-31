@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahesh013
 - 👀 I’m interested in .Robotics
 - 🌱 I’m currently learning .Data Science,Machine Learning and Artificial Inteligence.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Artificial inteligant related project
 - 📫 How to reach me .kandekarmahesh6@gmail.com..
 
 <!---
